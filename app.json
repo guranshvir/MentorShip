@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Mentor-app",
+    "slug": "Mentor-app",
+    "version": "1.0.0",
+    "scheme": "mentor-app",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {},
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {},
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
